@@ -1,0 +1,22 @@
+@import url('/project/styles/variables.css');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    min-height: 100vh;
+}
+
+a {
+
+    text-decoration: none;
+    cursor: pointer;
+
+}

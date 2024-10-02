@@ -1,0 +1,44 @@
+@import url('/project/assets/fonts/fonts.css');
+@import url('/project/styles/variables.css');
+@import url('/project/styles/resets.css');
+@import url('/project/styles/utilities.css');
+
+
+
+/*NAVBAR*/
+
+nav.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+}
+
+h1.navbar__logo {
+    font-size: 1.5rem;
+
+}
+
+
+
+/*HEADER*/
+
+header.heading {
+
+
+
+}
+
+h1.heading__title {
+    font-size: ;
+}
+
+
+
+
+
+
+
+
+
+
